@@ -11,3 +11,14 @@
  *= require_self
  *= require_tree .
  */
+#currentQ{
+	width:50%;
+	height:50%;
+	display: inline-block;
+	float:left;
+}
+#addStudent{
+	width:50%;
+	display: inline-block;
+	float:left;
+}
